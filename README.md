@@ -74,7 +74,7 @@ Example tables include:
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Library-Management-System.git
+git clone https://github.com/Shehrozashiraz/Library-Management-System.git
 ```
 
 2. Open the project in **NetBeans IDE**.
