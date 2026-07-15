@@ -41,14 +41,14 @@ This project was developed as part of our Object-Oriented Programming course usi
 ## 📂 Project Structure
 
 ```text
-Library-Management-System
+Library-Management-System/
 │
-├── src/
-├── nbproject/
-├── build.xml
-├── manifest.mf
-├── screenshots/
-└── README.md
+├── nbproject/          # NetBeans project configuration
+├── screenshots/        # Application screenshots used in README
+├── src/                # Java source code, forms, and images
+├── README.md           # Project documentation
+├── build.xml           # Apache Ant build script
+└── manifest.mf         # JAR manifest file
 ```
 
 ---
@@ -71,7 +71,7 @@ Example tables include:
 
 ## ▶️ Installation & Setup
 
-1. Clone this repository.
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/Shehrozashiraz/Library-Management-System.git
@@ -79,11 +79,11 @@ git clone https://github.com/Shehrozashiraz/Library-Management-System.git
 
 2. Open the project in **NetBeans IDE**.
 
-3. Create the required MySQL database.
+3. Create the required **MySQL database**.
 
-4. Import the SQL database (if provided).
+4. Import the SQL file (if provided).
 
-5. Update the database username and password in the project.
+5. Update the database connection details (username and password) in the source code.
 
 6. Build and run the project.
 
@@ -156,12 +156,15 @@ Provides an overview of issued books, returned books, and other important librar
 - Fine Calculation System
 - Online Book Reservation
 - Report Generation (PDF/Excel)
+- Dark Mode Support
 
 ---
 
 ## 👩‍💻 Author
 
 **Shehroza Shiraz**
+
+Computer Science Student | Java Developer (Learning)
 
 ---
 
