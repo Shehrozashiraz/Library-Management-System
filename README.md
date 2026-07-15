@@ -6,7 +6,7 @@ A desktop-based **Library Management System** developed using **Java Swing**, **
 
 ## 🌟 Project Overview
 
-The Library Management System simplifies the daily operations of a library by allowing administrators to manage books and student records, issue and return books, and monitor library statistics through an intuitive desktop application.
+Library Management System is a desktop application developed using Java Swing, JDBC, and MySQL. It enables librarians to efficiently manage books, students, and borrowing records through an intuitive graphical user interface. The system streamlines common library operations such as issuing and returning books while maintaining accurate records.
 
 This project was developed as part of our Object-Oriented Programming course using Java Swing for the graphical interface and MySQL as the backend database.
 
@@ -19,7 +19,7 @@ This project was developed as part of our Object-Oriented Programming course usi
 - 👨‍🎓 Add, Update & Delete Students
 - 📕 Issue Books
 - 📗 Return Books
-- 📊 Dashboard with Library Statistics
+- 📊 Dashboard displaying library statistics
 - 🔍 Search Books and Students
 - 💾 MySQL Database Connectivity using JDBC
 - 🖥️ User-Friendly Java Swing Interface
