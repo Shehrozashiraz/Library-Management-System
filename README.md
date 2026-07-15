@@ -92,42 +92,56 @@ git clone https://github.com/Shehrozashiraz/Library-Management-System.git
 ## 📸 Application Screenshots
 
 ### 🔐 Login Page
+The secure login screen where users authenticate before accessing the system.
 
 ![Login](screenshots/login.png)
 
 ---
 
-### 🏠 Dashboard
+### 🏠 Home Dashboard
+The main dashboard that provides quick access to all library management features.
 
-![Dashboard](screenshots/dashboard.png)
+![Home](screenshots/home.png)
 
 ---
 
 ### 📚 Add Book
+Allows librarians to add new books to the library database.
 
 ![Add Book](screenshots/add-book.png)
 
 ---
 
 ### 👨‍🎓 Add Student
+Used to register new students in the library management system.
 
 ![Add Student](screenshots/add-student.png)
 
 ---
 
-### 📕 Issue Book
+### 📖 Issue Book
+Enables books to be issued to students while maintaining transaction records.
 
 ![Issue Book](screenshots/issue-book.png)
 
 ---
 
-### 📗 Return Book
+### 📥 Return Book
+Allows librarians to record returned books and update the database.
 
 ![Return Book](screenshots/return-book.png)
 
 ---
 
-### 📊 Statistics
+### 📚 Books & Students Overview
+Displays the total number of books and registered students in the library.
+
+![Books & Students](screenshots/display-books-students.png)
+
+---
+
+### 📊 Library Statistics
+Provides an overview of issued books, returned books, and other important library statistics.
 
 ![Statistics](screenshots/statistics.png)
 
